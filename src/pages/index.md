@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Coming Soon! 
+title: Customer Success MTL
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Customer Success MTL
+subheading: Coming soon!
 mainpitch:
   title: Why Kaldi
   description: >
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
