@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
 title: Customer Success MTL
-image: /img/home-jumbotron.jpg
+image: /img/home-jumbotron.png
 heading: Customer Success MTL
 subheading: Coming soon!
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: 'Join us:'
+  description: >-
+    This group is intended for professionals that lead, manage, and deliver
+    Customer Success services in SaaS organizations. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We created to contribute to the growth and betterment of the Montreal Customer
+  Success Community.
 intro:
   blurbs:
     - image: /img/coffee.png
