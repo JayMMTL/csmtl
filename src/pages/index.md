@@ -5,6 +5,7 @@ image: /img/home-jumbotron.png
 heading: Customer Success MTL
 subheading: Coming soon!
 mainpitch:
+  title: 'Join us:'
   description: >-
     This group is intended for professionals that lead, manage, and deliver
     Customer Success services in SaaS organizations.
