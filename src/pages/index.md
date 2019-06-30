@@ -5,12 +5,11 @@ image: /img/home-jumbotron.png
 heading: Customer Success MTL
 subheading: Coming soon!
 mainpitch:
+  title: CS MTL
   description: >-
-    This group is intended for professionals that lead, manage, and deliver
-    Customer Success services in SaaS organizations.
-description: >-
-  We created to contribute to the growth and betterment of the Montreal Customer
-  Success Community.
+    This group is intended for Customer Success professionals and those
+    interested in the profession. 
+description: Join us at our next event to network with peers from the Montreal community.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -40,12 +39,14 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: What you’ll gain
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    No speakers, no presentations, just a group of CS professionals sharing
+    ideas over a few drinks. We’ll be hosting a CS MTL happy hour before our
+    next presentation we hope to have lined up for September. 
+
+
+    Stay tuned for the details!
 main:
   heading: Great coffee with no compromises
   description: >
@@ -63,3 +64,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
