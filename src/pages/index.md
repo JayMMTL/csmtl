@@ -2,14 +2,16 @@
 templateKey: index-page
 title: Customer Success MTL
 image: /img/home-jumbotron.png
-heading: Customer Success MTL
+heading: "CS Happy Hour \U0001F37B"
 subheading: Coming soon!
 mainpitch:
   title: CS MTL
   description: >-
     This group is intended for Customer Success professionals and those
     interested in the profession. 
-description: Join us at our next event to network with peers from the Montreal community.
+description: >-
+  Join us at our next event to network with peers from the Montreal community.
+  Stay tuned for details.
 intro:
   blurbs:
     - image: /img/coffee.png
