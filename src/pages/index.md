@@ -39,14 +39,9 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What you’ll gain
-  description: >
-    No speakers, no presentations, just a group of CS professionals sharing
-    ideas over a few drinks. We’ll be hosting a CS MTL happy hour before our
-    next presentation we hope to have lined up for September. 
-
-
-    Stay tuned for the details!
+  heading: Customer Success
+  description: |
+    Montreal CS Professionals
 main:
   heading: Great coffee with no compromises
   description: >
