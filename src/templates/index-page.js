@@ -22,8 +22,8 @@ export const IndexPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `center`,
-        backgroundSize: `cover`,
+        backgroundPosition: `top left`,
+        backgroundAttachment: `fixed`,
       }}
     >
       <div
@@ -53,7 +53,7 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(221, 51, 65) -0.5rem 0px 0px',
+              'rgb(221, 51, 65) 0.5rem 0px 0px, rgb(221, 51, 65) -0.5rem 0px 0px',
             backgroundColor: 'rgb(221, 51, 65)',
             color: 'white',
             lineHeight: '1',
@@ -71,6 +71,9 @@ export const IndexPageTemplate = ({
             <div className="column is-10 is-offset-1">
               <div className="content">
                 <div className="content">
+                  <div className="tile">
+                    <h1 className="title">{mainpitch.title}</h1>
+                  </div>
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
@@ -166,6 +169,7 @@ export const pageQuery = graphql`
         heading
         subheading
         mainpitch {
+          title
           description
         }
         description
