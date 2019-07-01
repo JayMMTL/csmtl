@@ -3,17 +3,17 @@ templateKey: 'about-page'
 path: /about
 title: About us
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Customer-Focused Growth
+We're committed to personal and professional growth. CS plays a key role in a SaaS organization's growth. We wish to build a platform that helps elevate the Customer Success practice in Montreal and more.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Speakers
+You'll leave with a fresh perspective to reflect on and ideas you can implement in your business. Our speakers
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Networking
+Meaningful connections are crucial in learning from shared experience and landing the right positions. You'll meet Customer Success Managers, Directors, VPs and CCOs from the most successful companies in Montreal.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Content
+Curated Customer Success related content so you don't have to sift through all the noise. We'll keep the blog updated with the best advice and case studies in CS and publish a newsletter every 4-6 weeks.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Founders
+Maria Jose Villanueva and Jay Filiatrault founded the group in 2018.

@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import logo from '../img/logo.svg'
+import logo from '../img/logolong.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
@@ -14,7 +14,7 @@ const Footer = class extends React.Component {
           <img
             src={logo}
             alt="CS MTL"
-            style={{ width: '7em', height: '5em' }}
+            style={{ height: '5em' }}
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
@@ -51,7 +51,7 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
-                        Latest Stories
+                        Latest Posts
                       </Link>
                     </li>
                     <li>
