@@ -12,7 +12,7 @@ description: >-
   Attend our events to learn from the best in the industry and network with your peers.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/featureCSHH.png
       text: >
         CS Happy Hour No speakers, no presentation, just a group of customer-focused professionals sharing ideas around a few drinks. Stay tuned for details!
     - image: /img/coffee-gear.png
