@@ -89,10 +89,10 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
-          <div
-            className="content has-text-centered",
-            style={{ paddingBottom: '1em' }}>
+          <div className="content has-text-centered">
+          <div style={{ paddingBottom: '1em' }}>
             © 2019 Customer Success Montreal
+          </div>
           </div>
       </footer>
     )
