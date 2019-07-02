@@ -13,7 +13,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="CS MTL"
+            alt="Customer Success MTL"
             style={{ height: '5em' }}
           />
         </div>
@@ -86,9 +86,11 @@ const Footer = class extends React.Component {
                   />
                 </a>
               </div>
-              © 2019 Customer Success Montreal
             </div>
           </div>
+        </div>
+        <div className="content has-text-centered">
+        © 2019 Customer Success Montreal
         </div>
       </footer>
     )
