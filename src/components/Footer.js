@@ -86,9 +86,7 @@ const Footer = class extends React.Component {
                   />
                 </a>
               </div>
-              <div>
               © 2019 Customer Success Montreal
-              </div>
             </div>
           </div>
         </div>
