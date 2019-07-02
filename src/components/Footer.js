@@ -91,6 +91,7 @@ const Footer = class extends React.Component {
         </div>
         <div className="content has-text-centered">
         © 2019 Customer Success Montreal
+        <p></p>
         </div>
       </footer>
     )
