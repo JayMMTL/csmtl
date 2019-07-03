@@ -17,6 +17,7 @@ const FeatureGrid = ({ gridItems }) => (
               <PreviewCompatibleImage imageInfo={item} />
             </div>
           </div>
+// add H3 header to features & investigate dependencies
           <p>{item.text}</p>
         </section>
       </div>

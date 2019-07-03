@@ -14,7 +14,7 @@ intro:
   blurbs:
     - image: /img/featureCSHH.png
       text: >
-        CS Happy Hour No speakers, no presentation, just a group of customer-focused professionals sharing ideas around a few drinks. Stay tuned for details!
+        CS Happy Hour: No speakers, no presentation, just a group of customer-focused professionals sharing ideas around a few drinks. Stay tuned for details!
     - image: /img/coffee-gear.png
       text: >
         We're working out the details of our next event which should take place in September. Check back here or join our newsletter to keep informed.
