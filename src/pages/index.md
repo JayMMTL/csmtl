@@ -2,25 +2,19 @@
 templateKey: index-page
 title: Customer Success MTL
 image: /img/home-jumbotron.png
-heading: "CS Happy Hour \U0001F37B"
+heading: CS MTL
 subheading: Coming soon!
 mainpitch:
-  title: CS MTL
+  title: 'Who is this community for? '
   description: >-
-    This group is intended for Customer Success professionals and those
-    interested in the profession. 
-description: >-
-  Join us at our next event to network with peers from the Montreal community.
-  Stay tuned for details.
+    Whether you're a seasoned Customer Success leader, or just getting your
+    career started in CS, join our community to build your network in Montreal
+    and learn from shared experiences.
+description: Montreal's Customer Success Community
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/feature-1.png
+      text: "CS Happy Hour \U0001F37B- details coming soon. No speakers, no presentation, just a group of CS professionals sharing ideas over a few drinks. "
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
