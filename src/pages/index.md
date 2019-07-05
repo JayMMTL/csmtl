@@ -2,55 +2,35 @@
 templateKey: index-page
 title: Customer Success MTL
 image: /img/home-jumbotron.png
-heading: CS MTL
-subheading: Coming soon!
+heading: "Join for free"
+subheading: Professional Community
 mainpitch:
-  title: 'Who is this community for? '
+  title: CS MTL
   description: >-
-    Whether you're a seasoned Customer Success leader, or just getting your
-    career started in CS, join our community to build your network in Montreal
-    and learn from shared experiences.
-description: Montreal's Customer Success Community
+    Whether you're a seasoned Customer Success leader, or just getting your career started in CS, join our community to build your network in Montreal and learn from shared experiences.
+description: >-
+  Attend our events to learn from the best in the industry and network with your peers.
 intro:
   blurbs:
-    - image: /img/coffee-gear.png
-      heading: "CS Happy Hour \U0001F37B"
-      text: >-
-        Details coming soon. No speakers, no presentation, just a group of CS
-        professionals sharing ideas over a few drinks. 
-    - image: /img/coffee-gear.png
-      heading: Great selection
+    - image: /img/featureCSHH.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        CS Happy Hour: No speakers, no presentation, just a group of customer-focused professionals sharing ideas around a few drinks. Stay tuned for details!
+    - image: /img/coffee-gear.png
+      text: >
+        We're working out the details of our next event which should take place in September. Check back here or join our newsletter to keep informed.
     - image: /img/tutorials.png
-      heading: We'll teach you
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Get involved! Help us grow CS MTL and the value it brings to the Montreal business community. We're looking for contributors to the blog, host sponsors and help spreading the word. Get in touch.
     - image: /img/meeting-space.png
-      heading: Come hang out
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        The newsletter is published every 4-6 weeks and to announce upcoming events. We curate the best content in the industry and provide tips from local contributors.  
   heading: Customer Success
   description: |
     Montreal CS Professionals
 main:
-  heading: Great coffee with no compromises
+  heading: Customer Success Montreal
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Whether you're a seasoned Customer Success leader, or just getting your career started in CS, join our community to build your network in Montreal and learn from shared experiences.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -61,4 +41,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
