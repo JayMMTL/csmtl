@@ -13,15 +13,20 @@ mainpitch:
 description: Montreal's Customer Success Community
 intro:
   blurbs:
-    - image: /img/feature-1.png
-      text: "CS Happy Hour \U0001F37B- details coming soon. No speakers, no presentation, just a group of CS professionals sharing ideas over a few drinks. "
     - image: /img/coffee-gear.png
+      heading: "CS Happy Hour \U0001F37B"
+      text: >-
+        Details coming soon. No speakers, no presentation, just a group of CS
+        professionals sharing ideas over a few drinks. 
+    - image: /img/coffee-gear.png
+      heading: Great selection
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
     - image: /img/tutorials.png
+      heading: We'll teach you
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
@@ -29,6 +34,7 @@ intro:
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
     - image: /img/meeting-space.png
+      heading: Come hang out
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
