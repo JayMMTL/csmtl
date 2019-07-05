@@ -19,7 +19,8 @@ intro:
       heading: "CS Happy Hour \U0001F37B"
       text: >
         No speakers, no presentation, just a group of customer-focused
-        professionals sharing ideas around a few drinks. Stay tuned for details!
+        professionals sharing ideas around a few drinks. Stay tuned for the
+        details!
     - image: /img/coffee-gear.png
       heading: Next presentation coming soon
       text: >
