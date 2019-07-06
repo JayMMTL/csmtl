@@ -26,18 +26,6 @@ intro:
       text: >
         We're working out the details of our next event which should take place
         in September. Check back here or join our newsletter to keep informed.
-    - image: /img/tutorials.png
-      heading: 'Want to help out? '
-      text: >
-        Get involved! Help us grow CS MTL and the value it brings to the
-        Montreal business community. We're looking for contributors to the blog,
-        host sponsors and help spreading the word. Get in touch.
-    - image: /img/meeting-space.png
-      heading: Stay up to date
-      text: >
-        The newsletter is published every 4-6 weeks and to announce upcoming
-        events. We curate the best content in the industry and provide tips from
-        local contributors.  
   heading: Customer Success
   description: |
     Montreal CS Professionals
