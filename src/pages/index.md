@@ -21,7 +21,7 @@ intro:
         No speakers, no presentation, just a group of customer-focused
         professionals sharing ideas around a few drinks. Stay tuned for the
         details!
-    - image: /img/coffee-gear.png
+    - image: /img/feature-2.png
       heading: Next presentation coming soon
       text: >
         We're working out the details of our next event which should take place
