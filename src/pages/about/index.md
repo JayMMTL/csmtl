@@ -4,11 +4,11 @@ title: About us
 ---
 ### Customer-Focused Growth
 
-We're committed to personal and professional growth. CS plays a key role in any SaaS or Service business' growth. CS-MTL is a platform that helps elevate the Customer Success practice in through our content and events. 
+We're committed to personal and professional growth. CS plays a key role in any SaaS or Service business' growth. CS-MTL is a platform that helps elevate the Customer Success practice in through our content and events.
 
 ### Speakers
 
-A fresh perspective to reflect on and ideas you can implement in your business are the main purpose of our events. Our speakers are established leaders in the field and at the forefront of innovation. 
+A fresh perspective to reflect on and ideas you can implement in your business are the main purpose of our events. Our speakers are established leaders in the field and at the forefront of innovation.
 
 ### Networking
 
@@ -20,7 +20,7 @@ Curated Customer Success-related content so you don't have to sift through all t
 
 ### Founders
 
-Maria Jose Villanueva and Jay Filiatrault founded the group in 2018. With more than 20 years of combined experience and a huge passion for Customer Success, we started this project to help our peers and community elevate their expertise, networks and professional lives. 
+Maria Jose Villanueva and Jay Filiatrault founded the group in 2018. With more than 30 years of combined experience and a huge passion for Customer Success, we started this project to help our peers and community elevate their expertise, networks and professional lives.
 
 ![Maria Jose Villanueva, Customer Success](/img/maria-150px.png "Maria Jose Villanueva")
 
