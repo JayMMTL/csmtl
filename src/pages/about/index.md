@@ -20,7 +20,7 @@ Curated Customer Success-related content so you don't have to sift through all t
 
 ### Founders
 
-Maria Jose Villanueva and Jay Filiatrault founded the group in 2018. With more than 20 years of combined experience and huge passion for Customer Success, we started this project to help our peers and community elevate their expertise, networks and professional lives. 
+Maria Jose Villanueva and Jay Filiatrault founded the group in 2018. With more than 20 years of combined experience and a huge passion for Customer Success, we started this project to help our peers and community elevate their expertise, networks and professional lives. 
 
 ![Maria Jose Villanueva, Customer Success](/img/maria-150px.png "Maria Jose Villanueva")
 
