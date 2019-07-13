@@ -29,6 +29,11 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
+                      <Link className="navbar-item" to="/blog">
+                        Latest Posts
+                      </Link>
+                    </li>
+                    <li>
                       <Link className="navbar-item" to="/about">
                         About
                       </Link>
@@ -50,13 +55,13 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item" to="/blog">
-                        Latest Posts
+                      <Link className="navbar-item" to="/contact">
+                        Contact
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
+                      <Link className="navbar-item" to="/privacy">
+                        Privacy Policy
                       </Link>
                     </li>
                   </ul>
@@ -91,9 +96,6 @@ const Footer = class extends React.Component {
         </div>
           <div className="content has-text-centered">
           <div style={{ paddingBottom: '1em' }}>
-            <Link className="navbar-item" to="/privacy">
-              Privacy Policy
-            </Link>
             © 2019 Customer Success Montreal
           </div>
           </div>
