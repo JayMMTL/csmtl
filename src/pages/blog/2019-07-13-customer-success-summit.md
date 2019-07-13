@@ -10,7 +10,9 @@ tags:
   - Events
   - Stats
 ---
-I attended the second annual Customer Success Summit in Toronto a few weeks ago. It was a great opportunity to network with other CS professionals, that's where I met Peter Armaly, the speaker of our first event. Speakers brought an interesting perspective to challenges common to most CS organizations and I left the conference with some ideas to increase the impact my team has in my company.
+![Customer Success Summit Canada](/img/screen-shot-2019-07-13-at-1.32.43-pm.png "Customer Success Summit Canada")
+
+I attended the Customer Success Summit in Toronto a few weeks ago. It was a great opportunity to network with other CS professionals, that's where I met Peter Armaly, the speaker of our first event last year. Speakers brought an interesting perspective to challenges common to most CS orgs and I left the conference with some ideas to increase the impact my team has in my company.
 
 ## Key Takeaways
 
