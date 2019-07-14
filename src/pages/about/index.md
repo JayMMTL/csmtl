@@ -4,7 +4,7 @@ title: About us
 ---
 ### Customer-Focused Growth
 
-We're committed to personal and professional growth. CS plays a key role in any SaaS or Service business' growth. CS-MTL is a platform that helps elevate the Customer Success practice in through our content and events.
+We're committed to personal and professional growth. CS plays a key role in any SaaS or Service business' growth. CS-MTL is a platform that helps elevate the Customer Success practice through our content and events.
 
 ### Speakers
 
