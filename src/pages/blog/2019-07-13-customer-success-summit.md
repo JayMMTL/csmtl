@@ -10,7 +10,7 @@ tags:
   - Events
   - Stats
 ---
-![Customer Success Summit Canada](/img/screen-shot-2019-07-13-at-1.32.43-pm.png "Customer Success Summit Canada")
+![Customer Success Summit Canada(/cs-summit.png)](https://customersuccesscanada.com/)
 
 I attended the Customer Success Summit in Toronto a few weeks ago. It was a great opportunity to network with other CS professionals, that's where I met Peter Armaly, the speaker of our first event last year. Speakers brought an interesting perspective to challenges common to most CS orgs and I left the conference with some ideas to increase the impact my team has in my company.
 
@@ -20,9 +20,9 @@ Startups and Fortune 500 CS orgs have common challenges:
 
 * Data (instrumentation, tracking, data silos)
 * Cross-team alignment (handoffs, objectives, accountability, executive buy-in)
-* Adoption of customer-centric vision/mission 
+* Adoption of customer-centric vision/mission
 
-We'll be diving in to these topics in future posts. 
+We'll be diving in to these topics in future posts.
 
 ## Stats & Numbers
 
