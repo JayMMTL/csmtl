@@ -4,7 +4,7 @@ title: Customer Success Summit
 date: 2019-07-13T17:30:50.415Z
 description: Takeaways from this year's conference
 featuredpost: true
-featuredimage: /img/screen-shot-2019-07-13-at-1.32.43-pm.png
+featuredimage: /img/cs-summit.png
 tags:
   - Strategy
   - Events
