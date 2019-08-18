@@ -5,6 +5,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import addToMailchimp from 'gatsby-plugin-mailchimp'
 
 export const IndexPageTemplate = ({
   image,
@@ -70,6 +71,79 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
+
+// Gatsby Mailchimp form
+
+export default class MyGatsbyComponent extends React.Component {
+
+  _handleSubmit = e => {
+    e.preventDefault();
+    addToMailchimp(email, listFields) // listFields are optional if you are only capturing the email address.
+    .then(data => {
+      // I recommend setting data to React state
+      // but you can do whatever you want (including ignoring this `then()` altogether)
+      console.log(data)
+    })
+    .catch(() => {
+      // unnecessary because Mailchimp only ever
+      // returns a 200 status code
+      // see below for how to handle errors
+    })
+  }
+
+  render () {
+    return (
+      <form onSubmit={this._handleSubmit(email)}>
+      <Layout>
+        <section className="section">
+          <div className="container">
+            <div className="content">
+              <form
+                name="join"
+                method="post"
+                action="/contact/thanks/"
+                data-netlify="true"
+                data-netlify-honeypot="bot-field"
+                onSubmit={this.handleSubmit}
+              >
+                {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
+                <input type="hidden" name="form-name" value="contact" />
+                <div hidden>
+                  <label>
+                    Don’t fill this out:{' '}
+                    <input name="bot-field" onChange={this.handleChange} />
+                  </label>
+                </div>
+                <div className="field">
+                  <label className="label" htmlFor={'email'}>
+                    Email
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={'email'}
+                      name={'email'}
+                      onChange={this.handleChange}
+                      id={'email'}
+                      required={true}
+                    />
+                  </div>
+                </div>
+                <div className="field">
+                  <button className="button is-link" type="submit">
+                    Send
+                  </button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </section>
+      </Layout>
+      </form>
+    )
+  }
+}
+
                 <div className="content">
                   <div className="tile">
                     <h1 className="title">{mainpitch.title}</h1>
