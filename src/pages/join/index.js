@@ -20,7 +20,7 @@ export default class Index extends React.Component {
   }
 
   handleSubmit = e => {
-    e.preventDefault()
+    e.preventDefault();
     addToMailchimp(email, name, company)
     const form = e.target
     fetch('/', {
