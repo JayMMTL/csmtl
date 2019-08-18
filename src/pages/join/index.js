@@ -9,15 +9,31 @@ function encode(data) {
     .join('&')
 }
 
-export default class MyGatsbyComponent extends React.Component {
+export default class Index extends React.Component {
+  constructor(props) {
+    super(props)
+    this.state = { isValidated: false }
+  }
+
+  handleChange = e => {
+    this.setState({ [e.target.name]: e.target.value })
+  }
+
   handleSubmit = e => {
-      e.preventDefault();
-      addToMailchimp(email, name, company)
-      .then(data => {
-        console.log(data)
-            })
+    e.preventDefault()
+    addToMailchimp(email, name, company)
+    const form = e.target
+    fetch('/', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: encode({
+        'form-name': form.getAttribute('name'),
+        ...this.state,
+      }),
+    })
       .then(() => navigate(form.getAttribute('action')))
-           }
+      .catch(error => alert(error))
+  }
 
   render() {
     return (
