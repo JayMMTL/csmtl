@@ -40,6 +40,13 @@ module.exports = {
            trackingId: "UA-143828755-1",
          },
        },
+    // Mailchimp
+    {
+          resolve: 'gatsby-plugin-mailchimp',
+          options: {
+          endpoint: 'https://cs-mtl.us12.list-manage.com/subscribe/post?u=8561520aa084904d4c6a04826&amp;id=ca6749c5a4',
+          },
+        },
     {
       resolve: 'gatsby-transformer-remark',
       options: {
