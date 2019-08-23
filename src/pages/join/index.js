@@ -19,3 +19,5 @@ import EmailListForm from '../../components/EmailListForm'
     )
   }
 }
+
+export default Join
