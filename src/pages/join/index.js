@@ -1,17 +1,16 @@
 import React from 'react'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
-import EmailListForm from '../../components/EmailListForm'
 
-
+export default class Index extends React.Component {
   render() {
-    return (
+return (
       <Layout>
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
-              <EmailListForm />
+              <h1>Join</h1>
+              <a href="https://google.com">Bouton</a>
             </div>
           </div>
         </section>
@@ -19,5 +18,3 @@ import EmailListForm from '../../components/EmailListForm'
     )
   }
 }
-
-export default Join

@@ -49,19 +49,10 @@ export const IndexPageTemplate = ({
         >
           {title}
         </h1>
-        <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
-          style={{
-            boxShadow:
-              'rgb(221, 51, 65) 0.5rem 0px 0px, rgb(221, 51, 65) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(221, 51, 65)',
-            color: 'white',
-            lineHeight: '1',
-            padding: '0.25em',
-          }}
-        >
-          {subheading}
-        </h3>
+        <a href="https://google.com"><h3
+          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen join"
+        >→ Join our Professional Community
+        </h3></a>
       </div>
     </div>
     <section className="section section--gradient">
